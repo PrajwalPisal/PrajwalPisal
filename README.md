@@ -6,7 +6,7 @@
   - [Praciting DS & Algos in Java](https://github.com/prajwalpisal/LeetCode-Java)
 - <b>Java</b>
   - [Microblogging Server](https://github.com/prajwalpisal)
-  - [Microblogging Server](https://github.com/PrajwalPisal/Sorting-Algorithm-Visualizer)
+  - [Sorting Algorithm Visualizer](https://github.com/PrajwalPisal/Sorting-Algorithm-Visualizer)
 - <b>Python</b>
   - [Instagram automation](https://github.com/prajwalpisal)
   - [Flask Weather website](https://github.com/Gurupremrajpal/CST205_FinalProject)
