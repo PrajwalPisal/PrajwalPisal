@@ -10,7 +10,7 @@
 
 <ul>
   <li><b>Sorting Algorithm Visualizer</b> | <i>Java, Swing, IntelliJ Idea</i> - <a href="https://github.com/PrajwalPisal/Sorting-Algorithm-Visualizer">GitHub Link</a></li>
-  <li><b>Walmart Sales Analytics Dashboard</b> | <i>Python, MS Power BI</i> - <a href="https://github.com/prajwalpisal">GitHub Link</a></li>
+  <li><b>Walmart Sales Analytics Dashboard</b> | <i>Python, MS Power BI</i> - <a href="https://app.powerbi.com/view?r=eyJrIjoiMjBlYTUyMGYtODA0NS00MjJjLWI2MzMtNTFlMGJkMDU2MWRiIiwidCI6ImYwZmQzZjdhLTEyMDAtNDViMy1hMzRkLWNkMDcwYTI2NDg1ZiIsImMiOjZ9">GitHub Link</a></li>
   <li><b>Crisp</b> | <i>ReactJS, TypeScript, Redux, Tailwind CSS, Git, NodeJS, API</i> - <a href="https://crisp.prajwalpisal.com/">GitHub Link</a></li>
   <li><b>Verilog-Based Memory BIST Design</b> | <i>ModelSim V10.4a, Verilog</i> - <a href="https://github.com/prajwalpisal">GitHub Link</a></li>
 </ul>
