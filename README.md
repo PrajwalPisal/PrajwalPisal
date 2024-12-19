@@ -20,7 +20,7 @@
   <li>Technologies: ReactJS, NextJS, HTML5, Tailwind CSS, Selenium, SOAP, TypeScript, Redux, Swing, CI/CD, AWS</li>
   <li>Networking: DNS, UDP, TCP/IP, FTP, VLAN, Subnetting, Ethernet, OSI Model, Firewall configuration, Switching</li>
   <li>Networking Tools: Putty, VPN, Routing; Install, Configure and Maintain Cisco 9336c-fx2, Switches, Routers</li>
-  <li>Hardware: ATE, Xilinx Vivado, Verilog, RTL, Repair & Debug Oracle x86-based Server & Hardware, BIOS, BOM</li>
+  <li>Hardware: ATE, Repair & Debug Oracle x86-based Server & Hardware, BIOS, BOM Validation</li>
   <li>Operating Systems: Linux, Windows, Mac OS</li>
   <li>Data: Numpy, Git, GitHub, MySQL Server, PostgreSQL, Oracle, IntelliJ IDEA, VS Code</li>
   <li>Management Tools: JIRA, Microsoft Teams, Microsoft Excel, Microsoft Office, Microsoft 365 Power Apps, Trello</li>
